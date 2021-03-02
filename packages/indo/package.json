@@ -1,0 +1,14 @@
+{
+  "name": "indo",
+  "version": "0.0.1",
+  "description": "indo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "indo"
+  ],
+  "author": "Reynaldi Aznan",
+  "license": "MIT"
+}
